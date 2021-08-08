@@ -1,0 +1,25 @@
+.header {
+  height: 200px;
+  background-color: lavender;
+
+  &__title {
+    color: purple;
+    text-align: center;
+  }
+  &__contents {
+    color: #252525;
+  }
+}
+
+.contents {
+  height: 500px;
+}
+
+.footer {
+  height: 100px;
+  background-color: lavender;
+
+  &__title {
+    color: purple;
+  }
+}
