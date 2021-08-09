@@ -1,0 +1,21 @@
+.header {
+  height: 200px;
+  background-color: lavender;
+}
+.header__title {
+  color: purple;
+  text-align: center;
+}
+.header__contents {
+  color: #252525;
+}
+.contents {
+  height: 500px;
+}
+.footer {
+  height: 100px;
+  background-color: lavender;
+}
+.footer__title {
+  color: purple;
+}
