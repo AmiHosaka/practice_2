@@ -9,7 +9,9 @@
 .header__contents {
   color: #252525;
 }
-
+.top {
+  background-image: url("/image/main-vsual-nontitle.png);
+}
 .footer {
   height: 100px;
   background-color: lavender;
